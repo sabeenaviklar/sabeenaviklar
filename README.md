@@ -18,7 +18,9 @@
         </ul>
       </td>
       <td width="35%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="3D Animated Coding Girl" width="200" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="3D Girl Avatar" width="180" />
+
+        
       </td>
     </tr>
   </table>
