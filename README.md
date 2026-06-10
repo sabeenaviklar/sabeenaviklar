@@ -11,14 +11,14 @@
         <h2>💫 The Developer Behind the Screen</h2>
         <ul>
           <li>🛠️ <b>Developer</b> I enjoy creating products that solve real-world problems.</li>
-          <li>🧠 <b>Leveling Up:</b> Diving deep into advanced system design and interactive micro-animations.</li>
+          <li>🧠 <b>Leveling Up:</b> Diving deep into advanced system design.</li>
           <li>🌙 <b>Night Owl:</b> Some of my best ideas arrive after sunset.</li>
           <li>🤝 <b>Let's Connect:</b> Always down to chat about open-source, tech stacks, or why dark mode is superior.</li>
        <li>⚡ <b>Quirk:</b> I enjoy solving tricky bugs so much that I sometimes forget to check the obvious solution first.</li>
         </ul>
       </td>
       <td width="35%" align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="3D Girl Avatar" width="180" />
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="3D Animated Coding Girl" width="200" />
       </td>
     </tr>
   </table>
