@@ -38,11 +38,19 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,figma,tailwind,mongodb,express,vscode,github&theme=dark&perline=6" alt="My Skills" />
   </a>
 </p>
+## 🔮 Tech Arsenal
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,react,nodejs,python,pytorch,tensorflow,git,figma,tailwind,mongodb,express,vscode,github&theme=dark&perline=7" alt="My Skills" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Added &dates=1a1b27 to the end of the URL to make the dates perfectly blend into the background -->
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeenaviklar&theme=tokyonight&hide_border=true&dates=1a1b27" alt="GitHub Streak" />
 </div>
 <br/>
