@@ -34,7 +34,7 @@
 ## 🔮 Tech Arsenal
 
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,css,react,nodejs,python,pytorch,tensorflow,git,figma,tailwind,mongodb,express,vscode,github&theme=dark&perline=7" alt="My Skills" />
   </a>
 </p>
