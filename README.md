@@ -42,7 +42,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeenaviklar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Added &dates=1a1b27 to the end of the URL to make the dates perfectly blend into the background -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabeenaviklar&theme=tokyonight&hide_border=true&dates=1a1b27" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
@@ -53,4 +54,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </p>
+
 
