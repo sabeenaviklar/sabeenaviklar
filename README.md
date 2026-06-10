@@ -46,11 +46,11 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabeenaviklar&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeenaviklar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabeenaviklar&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </p>
+
