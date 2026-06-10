@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hey%20there,%20I'm%20Sabeena!%20✨&fontSize=75&animation=fadeIn&fontAlignY=40&desc=Crafting%20Digital%20Experiences%20%7C%20UI/UX%20%26%20Code&descAlignY=60&descAlign=62" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hey%20there,%20I%20am%20Sabeena!&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Crafting%20Digital%20Experiences" width="100%" />
 </div>
 
 <br/>
@@ -10,11 +10,11 @@
       <td width="65%">
         <h2>💫 The Developer Behind the Screen</h2>
         <ul>
-          <li>🎨 <b>Digital Artisan:</b> I don't just write code; I craft seamless, dynamic web experiences.</li>
+          <li>🛠️ <b>Developer</b> I enjoy creating products that solve real-world problems.</li>
           <li>🧠 <b>Leveling Up:</b> Diving deep into advanced system design and interactive micro-animations.</li>
+          <li>🌙 <b>Night Owl:</b> Some of my best ideas arrive after sunset.</li>
           <li>🤝 <b>Let's Connect:</b> Always down to chat about open-source, tech stacks, or why dark mode is superior.</li>
-          <li>⚡ <b>Quirk:</b> I will happily spend 3 hours fixing a 2-pixel CSS alignment issue!</li>
-          <li>📫 <b>Say Hello:</b> <b>[Add your email here]</b></li>
+       <li>⚡ <b>Quirk:</b> I enjoy solving tricky bugs so much that I sometimes forget to check the obvious solution first.</li>
         </ul>
       </td>
       <td width="35%" align="center">
@@ -26,10 +26,7 @@
 
 ## 🌐 Let's Connect
 <p align="left">
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/sabeena-viklar-909020261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
